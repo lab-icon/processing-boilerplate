@@ -23,5 +23,6 @@ public class App extends PApplet {
     @Override
     public void draw() {
         background(0);
+        dot.draw();
     }
 }
